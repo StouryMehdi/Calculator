@@ -115,6 +115,8 @@ const App = () => {
     });
   };
 
+// debugger
+
   const resetClickHandler = () => {
     setCalc({
       ...calc,
